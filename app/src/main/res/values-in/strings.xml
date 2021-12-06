@@ -1,0 +1,270 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Katalog Film</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Tv Show</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="detail">Detail Informasi Film</string>
+    <string name="detail_tv">Sinopsis Tv Series</string>
+    <string name="name_films">Judul Film</string>
+    <string name="lorem">Deskripsi</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+
+    <string-array name="data_name">
+        <item>A Star Is Born</item>
+        <item>Alita: Battle Angel</item>
+        <item>Aquaman (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Cold Pursuit</item>
+        <item>Creed II</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Avengers: Infinity War</item>
+        <item>Mary Queen of Scots</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Musisi kawakan Jackson Maine menemukan dan jatuh cinta dengan artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.
+            \n Runtime          : 2 Jam 16 Menit
+            \n Genre            : DRAMA, ROMANCE, MUSIC
+            \n Tanggal rilis    : 5 Oktober 2018
+            \n Direktur         : Bradley Cooper
+            \n Skenario         : Bradley Cooper, Will Fetters, Eric Roth
+            \n Cerita           : William A. Wellman, Robert Carson
+
+        </item>
+        <item>
+            Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. lalu.
+            \n Runtime          : 2 Jam 2 Menit
+            \n Genre            : AKSI, FIKSI ILMU, THRILLER, ADVENTURE
+            \n Tanggal rilis    : 14 Februari 2019
+            \n Direktur         : Robert Rodriguez
+            \n Skenario         : Laeta Kalogridis, James Cameron
+
+        </item>
+
+        <item>
+            Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.
+            \n Runtime: 2 Jam 24 Menit
+            \n Genre: AKSI, ADVENTURE, FANTASY
+            \n Tanggal rilis: 21 Desember 2018
+            \n Direktur: James Wan
+            \n Skenario: Will Beall, David Leslie Johnson-McGoldrick
+            \n Cerita: James Wan, Will Beall, Geoff Johns
+            \n Karakter: Paul Norris, Mort Weisinger
+
+        </item>
+        <item>
+            Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon menggemparkan dunia musik ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.
+            \n Runtime          : 2 Jam 15 Menit
+            \n Genre            : DRAMA, MUSIK
+            \n Tanggal rilis    : 30 Oktober 2018
+            \n Direktur         : Bryan Singer
+            \n Skenario         : Anthony McCarten
+            \n Cerita           : Anthony McCarten, Peter Morgan
+        </item>
+        <item>
+            Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang dianggapnya bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Ketika Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan keras, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi.
+            \n Runtime          : 1 Jam 59 Menit
+            \n Genre            : AKSI
+            \n Tanggal rilis    : 8 Februari 2019
+            \n Direktur         : Hans Petter Moland
+            \n Skenario         : Frank Baldwin
+        </item>
+        <item>
+            Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.
+            \n Runtime          : 2 Jam 10 Menit
+            \n Genre            : DRAMA
+            \n Tanggal rilis    : 14 November 2018
+            \n Direktur         : Steven Caple Jr.
+            \n Skenario         : Sylvester Stallone, Juel Taylor
+            \n Kisah            : Cheo Hodari Coker, Sascha Penn,
+            \n Karakter         : Sylvester Stallone.
+        </item>
+
+        <item>
+            Gellert Grindelwald telah lolos dari penjara dan mulai mengumpulkan pengikut untuk tujuan-nya - meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah.
+            \n Runtime          : 2 Jam 14 Menit
+            \n Genre            : ADVENTURE, FANTASY, FAMILY
+            \n Tanggal rilis    : 16 November 2018
+            \n Direktur         : David Yates
+            \n Skenario         : J.K. Rowling
+        </item>
+        <item>
+            Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.
+            \n Runtime          : 2 Jam 9 Menit
+            \n Genre            : THRILLER, DRAMA, FICTION ILMU
+            \n Tanggal rilis    : 18 Januari 2019
+            \n Direktur         : M. Night Shyamalan
+            \n Skenario         : M. Night Shyamalan
+        </item>
+
+        <item>
+            Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.
+            \n Runtime          : 1 Jam 44 Menit
+            \n Genre            : ANIMASI, KELUARGA, PETUALANGAN
+            \n Tanggal rilis    : 22 Februari 2019
+            \n Direktur         : Dean DeBlois
+            \n Skenario         : Dean DeBlois
+            \n Cerita           : Dean DeBlois
+            \n Novel            : Cressida Cowell
+        </item>
+
+        <item>
+            Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.
+            \n Runtime          : 2 Jam 29 Menit
+            \n Genre            : PETUALANGAN, AKSI, FIKSI ILMU
+            \n Tanggal rilis    : 23 April 2018
+            \n Direktur         : Joe Russo, Anthony Russo
+            \n Skenario         : Stephen McFeely, Christopher Markus
+        </item>
+
+        <item>
+            Pada tahun 1561, Mary Stuart, janda Raja Prancis, kembali ke Skotlandia, merebut kembali tahta yang sah dan mengancam masa depan Ratu Elizabeth I sebagai penguasa Inggris, karena ia memiliki klaim sah atas takhta Inggris. Pengkhianatan, pemberontakan, konspirasi, dan pilihan hidup mereka sendiri membahayakan Ratu. Mereka mengalami biaya kekuasaan yang pahit, sampai nasib tragis mereka akhirnya terpenuhi.
+            \n Runtime          : 2 Jam 4 Menit
+            \n Genre            : DRAMA, SEJARAH
+            \n Tanggal rilis    : 15 November 2018
+            \n Direktur         : Josie Rourke
+            \n Skenario         : Beau Willimon
+        </item>
+
+
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_marry_queen</item>
+
+    </array>
+
+    <string-array name="data_name_tv">
+
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>The Arrow</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Grey Anatomy</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+        <item>The Simpsons</item>
+        <item>Umbrella Academy</item>
+
+    </string-array>
+
+    <string-array name="data_description_tv">
+
+        <item>
+            Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super tetapi juga membuat mereka menjadi cacat dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada dan untuk melindungi Bumi dari apa yang mereka temukan.
+            \n Runtime      : 60 Menit
+            \n Genre        : FIKSI ILMU, FANTASI, AKSI, PETUALANGAN
+            \n Tanggal rilis: 2019
+            \nPencipta      : Jeremy Carver
+        </item>
+        <item>
+            Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke rumah Goku. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya.
+            \n Runtime      : 25 Menit
+            \n Genre        : KOMEDI, FIKSI ILMU, FANTASI, ANIMASI, AKSI, PETUALANGAN
+            \n Tanggal rilis: 1986
+            \n Pencipta     : Akira Toriyama
+        </item>
+        <item>
+            Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.
+            \n Runtime      : 42 Menit
+            \n Genre        : KEJAHATAN, DRAMA, MISTERI, AKSI, PETUALANGAN
+            \n Tanggal rilis: 2012
+            \n Pembuat      : Greg Berlanti, Marc Guggenheim, Andrew Kreisberg
+        </item>
+        <item>
+            Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.
+            \n Runtime      : 25 Menit
+            \n Genre        : AKSI, PETUALANGAN, ANIMASI, KOMEDI, FIKSI ILMU, FANTASI
+            \n Tanggal rilis: 2009
+            \n Pembuat      : Hiro Mashima
+        </item>
+        <item>
+            Serial animasi Ficking Sweet yang sakit, terpelintir, tidak tepat secara politis dan menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.
+            \n Runtime      : 22 Menit
+            \n Genre        : ANIMASI, KOMEDI
+            \n Tanggal rilis: 1999
+            \n Pencipta     : Seth MacFarlane
+        </item>
+
+        <item>
+            Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya metahuman yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi itu tidak akan lama sebelum dunia mengetahui apa Barry Allen telah menjadi The Flash.
+            \n Runtime      : 44 Menit
+            \n Genre        : DRAMA, FIKSI ILMU, FANTASI
+            \n Tanggal rilis: 2014
+            \n Pencipta     : Geoff Johns, Andrew Kreisberg, Greg Berlanti
+        </item>
+
+        <item>
+            Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.
+            \n Runtime      : 43 Minutes
+            \n Genres       : DRAMA
+            \n Release date : 2005
+            \n Creator      : Shonda Rhimes
+        </item>
+        <item>
+            Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.
+            \n Runtime      : 42 Menit
+            \n Genre        : AKSI, PETUALANGAN, DRAMA, FIKSI ILMU
+            \n Tanggal rilis: 2015
+            \n Pencipta     : Greg Berlanti, Andrew Kreisberg, Ali Adler
+        </item>
+        <item>
+            Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajar mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi seluruh negeri dengan 67 Chevy Impala mereka, melawan setiap jenis ancaman gaib yang mereka temui di sepanjang jalan.
+            \n Runtime      : 45 Menit
+            \n Genre        : DRAMA, MISTERI, FIKSI ILMU, FANTASI
+            \n Tanggal rilis: 2005
+            \n Pencipta     : Eric Kripke
+        </item>
+        <item>
+            Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.
+            \n Runtime      : 22 Menit
+            \n Genre        : ANIMASI, COMEDI
+            \n Tanggal rilis: 1989
+            \n Pencipta     : Matt Groening
+        </item>
+
+        <item>
+            Keluarga para pahlawan super yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan banyak lagi.
+            \n Runtime: 60 Menit
+            \n Genre: AKSI, PETUALANGAN, FIKSI ILMU, FANTASI
+            \n Tanggal rilis: 2019
+            \n Pencipta: Steve Blackman
+        </item>
+    </string-array>
+
+    <array name="data_photo_tv">
+
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_umbrella</item>
+    </array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
